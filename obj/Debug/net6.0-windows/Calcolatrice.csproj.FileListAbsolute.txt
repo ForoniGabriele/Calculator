@@ -1,0 +1,17 @@
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\bin\Debug\net6.0-windows\Calcolatrice.exe
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\bin\Debug\net6.0-windows\Calcolatrice.deps.json
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\bin\Debug\net6.0-windows\Calcolatrice.runtimeconfig.json
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\bin\Debug\net6.0-windows\Calcolatrice.dll
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\bin\Debug\net6.0-windows\Calcolatrice.pdb
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.Form1.resources
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.Properties.Resources.resources
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.AssemblyInfo.cs
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.dll
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\refint\Calcolatrice.dll
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.pdb
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\Calcolatrice.genruntimeconfig.cache
+C:\Users\foron\Documents\MEGA\Progetti personali\Calcolatrice\obj\Debug\net6.0-windows\ref\Calcolatrice.dll
